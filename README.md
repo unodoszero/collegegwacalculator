@@ -11,6 +11,7 @@ College GWA Calculator is a Java desktop application for tracking student academ
 
 ## Table of Contents
 
+- [Preview](#preview)
 - [Tech Stack](#tech-stack)
 - [Repository Overview](#repository-overview)
 - [Features](#features)
@@ -19,6 +20,20 @@ College GWA Calculator is a Java desktop application for tracking student academ
 - [Usage](#usage)
 - [Constraints and Future Improvements](#constraints-and-future-improvements)
 - [License](#license)
+
+## Preview
+
+| Screen | Preview | Description |
+| --- | --- | --- |
+| Registration | ![Registration screen](src/preview/register.png) | Account creation screen with email, password, confirm password, and show-password controls. |
+| Student Details | ![Student details registration form](src/preview/register%202.png) | Follow-up registration form for collecting student identity, academic program, organization, and sports details. |
+| Login | ![Login screen](src/preview/login.png) | Authentication screen for returning users, including inline login feedback. |
+| Profile | ![Profile dashboard panel](src/preview/profile.png) | Student profile panel showing personal, program, college, organization, and sports information. |
+| Program | ![Program dashboard panel](src/preview/proggram.png) | Program panel for viewing subject records and grading criteria columns. |
+| Add Subject | ![Add subject dialog](src/preview/adding%20program.png) | Subject entry dialog for course metadata, unit count, instructor, and grading percentages. |
+| Grades | ![Grades dashboard panel](src/preview/grades%20panel.png) | GWA calculation panel with course grades, units, strongest subject, weakest subject, letter grade, and quality remark. |
+| History | ![History dashboard panel](src/preview/history.png) | Semester history panel for tracking year level, term, and term dates. |
+| Add Semester | ![Add semester dialog](src/preview/history%20adding.png) | Semester entry dialog for adding academic history records. |
 
 ## Tech Stack
 

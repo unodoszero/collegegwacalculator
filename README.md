@@ -1,11 +1,11 @@
 # College GWA Calculator
 
-![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/UI-Java%20Swing-5382A1?logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven&logoColor=white)
-![Apache POI](https://img.shields.io/badge/Data-Apache%20POI-D22128?logo=apache&logoColor=white)
-![FlatLaf](https://img.shields.io/badge/Look%20%26%20Feel-FlatLaf-2E3440)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Language: Java](https://img.shields.io/badge/LANGUAGE-JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![UI: Java Swing](https://img.shields.io/badge/UI-JAVA%20SWING-5382A1?style=for-the-badge)
+![Build: Maven](https://img.shields.io/badge/BUILD-MAVEN-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Data: Apache POI](https://img.shields.io/badge/DATA-APACHE%20POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Look and Feel: FlatLaf](https://img.shields.io/badge/LOOK%20%26%20FEEL-FLATLAF-2E3440?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/LICENSE-MIT-2EA44F?style=for-the-badge)
 
 College GWA Calculator is a Java desktop application for tracking student academic information and calculating a college General Weighted Average (GWA). It combines a Swing dashboard, Excel-based student records, subject management, semester history, and grade evaluation tools in one local application.
 
